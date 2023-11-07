@@ -1,0 +1,7 @@
+{
+  "name": "ppm_tugas_5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
